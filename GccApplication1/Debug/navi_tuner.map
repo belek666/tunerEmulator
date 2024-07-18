@@ -1,0 +1,1173 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+                              E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o (exit)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(memcmp.o)
+                              main.o (memcmp)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(iob.o)
+                              main.o (__iob)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf.o)
+                              main.o (printf)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf_p.o)
+                              src/avr-can-lib/mcp2515_regdump.o (printf_P)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(putchar.o)
+                              main.o (putchar)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(puts.o)
+                              main.o (puts)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(vfprintf_std.o)
+                              e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf.o) (vfprintf)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(strnlen_P.o)
+                              e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(vfprintf_std.o) (strnlen_P)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(strnlen.o)
+                              e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(vfprintf_std.o) (strnlen)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(fputc.o)
+                              e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(putchar.o) (fputc)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(ultoa_invert.o)
+                              e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(vfprintf_std.o) (__ultoa_invert)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_prologue.o)
+                              e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf.o) (__prologue_saves__)
+e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_epilogue.o)
+                              e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+modes               0x1               main.o
+__iob               0x6               e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ .bss           0x00000000        0x0 E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ COMMON         0x00000000        0x1 main.o
+ .text          0x00000000        0x0 src/avr-can-lib/at90can.o
+ .data          0x00000000        0x0 src/avr-can-lib/at90can.o
+ .bss           0x00000000        0x0 src/avr-can-lib/at90can.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/at90can.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/at90can.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/at90can.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/at90can.o
+ .debug_str     0x00000000      0x194 src/avr-can-lib/at90can.o
+ .comment       0x00000000       0x31 src/avr-can-lib/at90can.o
+ .text          0x00000000        0x0 src/avr-can-lib/at90can_buffer.o
+ .data          0x00000000        0x0 src/avr-can-lib/at90can_buffer.o
+ .bss           0x00000000        0x0 src/avr-can-lib/at90can_buffer.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/at90can_buffer.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/at90can_buffer.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/at90can_buffer.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/at90can_buffer.o
+ .debug_str     0x00000000      0x19b src/avr-can-lib/at90can_buffer.o
+ .comment       0x00000000       0x31 src/avr-can-lib/at90can_buffer.o
+ .text          0x00000000        0x0 src/avr-can-lib/at90can_disable_dyn_filter.o
+ .data          0x00000000        0x0 src/avr-can-lib/at90can_disable_dyn_filter.o
+ .bss           0x00000000        0x0 src/avr-can-lib/at90can_disable_dyn_filter.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/at90can_disable_dyn_filter.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/at90can_disable_dyn_filter.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/at90can_disable_dyn_filter.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/at90can_disable_dyn_filter.o
+ .debug_str     0x00000000      0x1a7 src/avr-can-lib/at90can_disable_dyn_filter.o
+ .comment       0x00000000       0x31 src/avr-can-lib/at90can_disable_dyn_filter.o
+ .text          0x00000000        0x0 src/avr-can-lib/at90can_error_register.o
+ .data          0x00000000        0x0 src/avr-can-lib/at90can_error_register.o
+ .bss           0x00000000        0x0 src/avr-can-lib/at90can_error_register.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/at90can_error_register.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/at90can_error_register.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/at90can_error_register.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/at90can_error_register.o
+ .debug_str     0x00000000      0x1a3 src/avr-can-lib/at90can_error_register.o
+ .comment       0x00000000       0x31 src/avr-can-lib/at90can_error_register.o
+ .text          0x00000000        0x0 src/avr-can-lib/at90can_get_buf_message.o
+ .data          0x00000000        0x0 src/avr-can-lib/at90can_get_buf_message.o
+ .bss           0x00000000        0x0 src/avr-can-lib/at90can_get_buf_message.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/at90can_get_buf_message.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/at90can_get_buf_message.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/at90can_get_buf_message.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/at90can_get_buf_message.o
+ .debug_str     0x00000000      0x1a4 src/avr-can-lib/at90can_get_buf_message.o
+ .comment       0x00000000       0x31 src/avr-can-lib/at90can_get_buf_message.o
+ .text          0x00000000        0x0 src/avr-can-lib/at90can_get_dyn_filter.o
+ .data          0x00000000        0x0 src/avr-can-lib/at90can_get_dyn_filter.o
+ .bss           0x00000000        0x0 src/avr-can-lib/at90can_get_dyn_filter.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/at90can_get_dyn_filter.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/at90can_get_dyn_filter.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/at90can_get_dyn_filter.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/at90can_get_dyn_filter.o
+ .debug_str     0x00000000      0x1a3 src/avr-can-lib/at90can_get_dyn_filter.o
+ .comment       0x00000000       0x31 src/avr-can-lib/at90can_get_dyn_filter.o
+ .text          0x00000000        0x0 src/avr-can-lib/at90can_get_message.o
+ .data          0x00000000        0x0 src/avr-can-lib/at90can_get_message.o
+ .bss           0x00000000        0x0 src/avr-can-lib/at90can_get_message.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/at90can_get_message.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/at90can_get_message.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/at90can_get_message.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/at90can_get_message.o
+ .debug_str     0x00000000      0x1a0 src/avr-can-lib/at90can_get_message.o
+ .comment       0x00000000       0x31 src/avr-can-lib/at90can_get_message.o
+ .text          0x00000000        0x0 src/avr-can-lib/at90can_send_buf_message.o
+ .data          0x00000000        0x0 src/avr-can-lib/at90can_send_buf_message.o
+ .bss           0x00000000        0x0 src/avr-can-lib/at90can_send_buf_message.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/at90can_send_buf_message.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/at90can_send_buf_message.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/at90can_send_buf_message.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/at90can_send_buf_message.o
+ .debug_str     0x00000000      0x1a5 src/avr-can-lib/at90can_send_buf_message.o
+ .comment       0x00000000       0x31 src/avr-can-lib/at90can_send_buf_message.o
+ .text          0x00000000        0x0 src/avr-can-lib/at90can_send_message.o
+ .data          0x00000000        0x0 src/avr-can-lib/at90can_send_message.o
+ .bss           0x00000000        0x0 src/avr-can-lib/at90can_send_message.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/at90can_send_message.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/at90can_send_message.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/at90can_send_message.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/at90can_send_message.o
+ .debug_str     0x00000000      0x1a1 src/avr-can-lib/at90can_send_message.o
+ .comment       0x00000000       0x31 src/avr-can-lib/at90can_send_message.o
+ .text          0x00000000        0x0 src/avr-can-lib/at90can_set_dyn_filter.o
+ .data          0x00000000        0x0 src/avr-can-lib/at90can_set_dyn_filter.o
+ .bss           0x00000000        0x0 src/avr-can-lib/at90can_set_dyn_filter.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/at90can_set_dyn_filter.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/at90can_set_dyn_filter.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/at90can_set_dyn_filter.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/at90can_set_dyn_filter.o
+ .debug_str     0x00000000      0x1a3 src/avr-can-lib/at90can_set_dyn_filter.o
+ .comment       0x00000000       0x31 src/avr-can-lib/at90can_set_dyn_filter.o
+ .text          0x00000000        0x0 src/avr-can-lib/at90can_set_mode.o
+ .data          0x00000000        0x0 src/avr-can-lib/at90can_set_mode.o
+ .bss           0x00000000        0x0 src/avr-can-lib/at90can_set_mode.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/at90can_set_mode.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/at90can_set_mode.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/at90can_set_mode.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/at90can_set_mode.o
+ .debug_str     0x00000000      0x19d src/avr-can-lib/at90can_set_mode.o
+ .comment       0x00000000       0x31 src/avr-can-lib/at90can_set_mode.o
+ .text          0x00000000        0x0 src/avr-can-lib/can_buffer.o
+ .data          0x00000000        0x0 src/avr-can-lib/can_buffer.o
+ .bss           0x00000000        0x0 src/avr-can-lib/can_buffer.o
+ .text.can_buffer_init
+                0x00000000       0x16 src/avr-can-lib/can_buffer.o
+ .text.can_buffer_empty
+                0x00000000       0x12 src/avr-can-lib/can_buffer.o
+ .text.can_buffer_full
+                0x00000000       0x16 src/avr-can-lib/can_buffer.o
+ .text.can_buffer_get_enqueue_ptr
+                0x00000000       0x3a src/avr-can-lib/can_buffer.o
+ .text.can_buffer_enqueue
+                0x00000000       0x1e src/avr-can-lib/can_buffer.o
+ .text.can_buffer_get_dequeue_ptr
+                0x00000000       0x3a src/avr-can-lib/can_buffer.o
+ .text.can_buffer_dequeue
+                0x00000000       0x1e src/avr-can-lib/can_buffer.o
+ .debug_info    0x00000000      0x4dc src/avr-can-lib/can_buffer.o
+ .debug_abbrev  0x00000000      0x1cc src/avr-can-lib/can_buffer.o
+ .debug_loc     0x00000000      0x2f1 src/avr-can-lib/can_buffer.o
+ .debug_aranges
+                0x00000000       0x50 src/avr-can-lib/can_buffer.o
+ .debug_ranges  0x00000000       0x40 src/avr-can-lib/can_buffer.o
+ .debug_line    0x00000000      0x2ca src/avr-can-lib/can_buffer.o
+ .debug_str     0x00000000      0x2ab src/avr-can-lib/can_buffer.o
+ .comment       0x00000000       0x31 src/avr-can-lib/can_buffer.o
+ .debug_frame   0x00000000       0x9c src/avr-can-lib/can_buffer.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_buffer.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_buffer.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_buffer.o
+ .text.can_check_free_buffer
+                0x00000000       0x12 src/avr-can-lib/mcp2515_buffer.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_error_register.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_error_register.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_error_register.o
+ .text.can_read_error_register
+                0x00000000       0x12 src/avr-can-lib/mcp2515_error_register.o
+ .debug_info    0x00000000      0x111 src/avr-can-lib/mcp2515_error_register.o
+ .debug_abbrev  0x00000000       0xc3 src/avr-can-lib/mcp2515_error_register.o
+ .debug_loc     0x00000000       0x48 src/avr-can-lib/mcp2515_error_register.o
+ .debug_aranges
+                0x00000000       0x20 src/avr-can-lib/mcp2515_error_register.o
+ .debug_ranges  0x00000000       0x10 src/avr-can-lib/mcp2515_error_register.o
+ .debug_line    0x00000000       0xf6 src/avr-can-lib/mcp2515_error_register.o
+ .debug_str     0x00000000      0x1f9 src/avr-can-lib/mcp2515_error_register.o
+ .comment       0x00000000       0x31 src/avr-can-lib/mcp2515_error_register.o
+ .debug_frame   0x00000000       0x2c src/avr-can-lib/mcp2515_error_register.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .text.can_get_filter
+                0x00000000       0xd6 src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .debug_info    0x00000000      0x30f src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .debug_abbrev  0x00000000      0x141 src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .debug_loc     0x00000000      0x1a4 src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .debug_aranges
+                0x00000000       0x20 src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .debug_ranges  0x00000000       0x10 src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .debug_line    0x00000000      0x1dd src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .debug_str     0x00000000      0x27d src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .comment       0x00000000       0x31 src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .debug_frame   0x00000000       0x40 src/avr-can-lib/mcp2515_get_dyn_filter.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_get_message.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_get_message.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_get_message.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_read_id.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_read_id.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_read_id.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_regdump.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_regdump.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_regdump.o
+ .rodata.str1.1
+                0x00000000       0x2a src/avr-can-lib/mcp2515_regdump.o
+ .text.mcp2515_regdump
+                0x00000000      0x1ca src/avr-can-lib/mcp2515_regdump.o
+ .debug_info    0x00000000      0x297 src/avr-can-lib/mcp2515_regdump.o
+ .debug_abbrev  0x00000000       0xfe src/avr-can-lib/mcp2515_regdump.o
+ .debug_loc     0x00000000      0x1af src/avr-can-lib/mcp2515_regdump.o
+ .debug_aranges
+                0x00000000       0x20 src/avr-can-lib/mcp2515_regdump.o
+ .debug_ranges  0x00000000       0x10 src/avr-can-lib/mcp2515_regdump.o
+ .debug_line    0x00000000      0x164 src/avr-can-lib/mcp2515_regdump.o
+ .debug_str     0x00000000      0x20e src/avr-can-lib/mcp2515_regdump.o
+ .comment       0x00000000       0x31 src/avr-can-lib/mcp2515_regdump.o
+ .debug_frame   0x00000000       0x84 src/avr-can-lib/mcp2515_regdump.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_send_message.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_send_message.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_send_message.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .text.can_set_filter
+                0x00000000      0x136 src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .debug_info    0x00000000      0x445 src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .debug_abbrev  0x00000000      0x189 src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .debug_loc     0x00000000      0x1fe src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .debug_aranges
+                0x00000000       0x20 src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .debug_ranges  0x00000000       0x10 src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .debug_line    0x00000000      0x26a src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .debug_str     0x00000000      0x2d8 src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .comment       0x00000000       0x31 src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .debug_frame   0x00000000       0x40 src/avr-can-lib/mcp2515_set_dyn_filter.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_set_mode.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_set_mode.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_set_mode.o
+ .text.can_set_mode
+                0x00000000       0x3c src/avr-can-lib/mcp2515_set_mode.o
+ .debug_info    0x00000000      0x135 src/avr-can-lib/mcp2515_set_mode.o
+ .debug_abbrev  0x00000000       0xcc src/avr-can-lib/mcp2515_set_mode.o
+ .debug_loc     0x00000000       0x6f src/avr-can-lib/mcp2515_set_mode.o
+ .debug_aranges
+                0x00000000       0x20 src/avr-can-lib/mcp2515_set_mode.o
+ .debug_ranges  0x00000000       0x10 src/avr-can-lib/mcp2515_set_mode.o
+ .debug_line    0x00000000      0x126 src/avr-can-lib/mcp2515_set_mode.o
+ .debug_str     0x00000000      0x226 src/avr-can-lib/mcp2515_set_mode.o
+ .comment       0x00000000       0x31 src/avr-can-lib/mcp2515_set_mode.o
+ .debug_frame   0x00000000       0x30 src/avr-can-lib/mcp2515_set_mode.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_sleep.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_sleep.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_sleep.o
+ .text.can_sleep
+                0x00000000       0x16 src/avr-can-lib/mcp2515_sleep.o
+ .text.can_wakeup
+                0x00000000       0x1e src/avr-can-lib/mcp2515_sleep.o
+ .debug_info    0x00000000      0x1a7 src/avr-can-lib/mcp2515_sleep.o
+ .debug_abbrev  0x00000000       0xa6 src/avr-can-lib/mcp2515_sleep.o
+ .debug_aranges
+                0x00000000       0x28 src/avr-can-lib/mcp2515_sleep.o
+ .debug_ranges  0x00000000       0x18 src/avr-can-lib/mcp2515_sleep.o
+ .debug_line    0x00000000       0xb3 src/avr-can-lib/mcp2515_sleep.o
+ .debug_str     0x00000000      0x20a src/avr-can-lib/mcp2515_sleep.o
+ .comment       0x00000000       0x31 src/avr-can-lib/mcp2515_sleep.o
+ .debug_frame   0x00000000       0x34 src/avr-can-lib/mcp2515_sleep.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_static_filter.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_static_filter.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_static_filter.o
+ .text          0x00000000        0x0 src/avr-can-lib/mcp2515_write_id.o
+ .data          0x00000000        0x0 src/avr-can-lib/mcp2515_write_id.o
+ .bss           0x00000000        0x0 src/avr-can-lib/mcp2515_write_id.o
+ .text          0x00000000        0x0 src/avr-can-lib/sja1000.o
+ .data          0x00000000        0x0 src/avr-can-lib/sja1000.o
+ .bss           0x00000000        0x0 src/avr-can-lib/sja1000.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/sja1000.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/sja1000.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/sja1000.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/sja1000.o
+ .debug_str     0x00000000      0x194 src/avr-can-lib/sja1000.o
+ .comment       0x00000000       0x31 src/avr-can-lib/sja1000.o
+ .text          0x00000000        0x0 src/avr-can-lib/sja1000_buffer.o
+ .data          0x00000000        0x0 src/avr-can-lib/sja1000_buffer.o
+ .bss           0x00000000        0x0 src/avr-can-lib/sja1000_buffer.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/sja1000_buffer.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/sja1000_buffer.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/sja1000_buffer.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/sja1000_buffer.o
+ .debug_str     0x00000000      0x19b src/avr-can-lib/sja1000_buffer.o
+ .comment       0x00000000       0x31 src/avr-can-lib/sja1000_buffer.o
+ .text          0x00000000        0x0 src/avr-can-lib/sja1000_error_register.o
+ .data          0x00000000        0x0 src/avr-can-lib/sja1000_error_register.o
+ .bss           0x00000000        0x0 src/avr-can-lib/sja1000_error_register.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/sja1000_error_register.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/sja1000_error_register.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/sja1000_error_register.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/sja1000_error_register.o
+ .debug_str     0x00000000      0x1a3 src/avr-can-lib/sja1000_error_register.o
+ .comment       0x00000000       0x31 src/avr-can-lib/sja1000_error_register.o
+ .text          0x00000000        0x0 src/avr-can-lib/sja1000_get_message.o
+ .data          0x00000000        0x0 src/avr-can-lib/sja1000_get_message.o
+ .bss           0x00000000        0x0 src/avr-can-lib/sja1000_get_message.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/sja1000_get_message.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/sja1000_get_message.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/sja1000_get_message.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/sja1000_get_message.o
+ .debug_str     0x00000000      0x1a0 src/avr-can-lib/sja1000_get_message.o
+ .comment       0x00000000       0x31 src/avr-can-lib/sja1000_get_message.o
+ .text          0x00000000        0x0 src/avr-can-lib/sja1000_send_message.o
+ .data          0x00000000        0x0 src/avr-can-lib/sja1000_send_message.o
+ .bss           0x00000000        0x0 src/avr-can-lib/sja1000_send_message.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/sja1000_send_message.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/sja1000_send_message.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/sja1000_send_message.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/sja1000_send_message.o
+ .debug_str     0x00000000      0x1a1 src/avr-can-lib/sja1000_send_message.o
+ .comment       0x00000000       0x31 src/avr-can-lib/sja1000_send_message.o
+ .text          0x00000000        0x0 src/avr-can-lib/sja1000_set_mode.o
+ .data          0x00000000        0x0 src/avr-can-lib/sja1000_set_mode.o
+ .bss           0x00000000        0x0 src/avr-can-lib/sja1000_set_mode.o
+ .debug_info    0x00000000       0x64 src/avr-can-lib/sja1000_set_mode.o
+ .debug_abbrev  0x00000000       0x26 src/avr-can-lib/sja1000_set_mode.o
+ .debug_aranges
+                0x00000000       0x18 src/avr-can-lib/sja1000_set_mode.o
+ .debug_line    0x00000000       0x1a src/avr-can-lib/sja1000_set_mode.o
+ .debug_str     0x00000000      0x19d src/avr-can-lib/sja1000_set_mode.o
+ .comment       0x00000000       0x31 src/avr-can-lib/sja1000_set_mode.o
+ .text          0x00000000        0x0 src/avr-can-lib/spi.o
+ .data          0x00000000        0x0 src/avr-can-lib/spi.o
+ .bss           0x00000000        0x0 src/avr-can-lib/spi.o
+ .text          0x00000000        0x0 src/i2c.o
+ .data          0x00000000        0x0 src/i2c.o
+ .bss           0x00000000        0x0 src/i2c.o
+ .text.I2C_start
+                0x00000000        0xc src/i2c.o
+ .text.I2C_stop
+                0x00000000        0xc src/i2c.o
+ .text.I2C_write
+                0x00000000        0xe src/i2c.o
+ .text.I2C_read
+                0x00000000       0x16 src/i2c.o
+ .rodata.str1.1
+                0x00000000      0x15c src/i2c.o
+ .text.IC2ReadByte
+                0x00000000      0x102 src/i2c.o
+ .text.IC2WriteByte
+                0x00000000       0xc0 src/i2c.o
+ .debug_info    0x00000000      0x2b5 src/i2c.o
+ .debug_abbrev  0x00000000      0x100 src/i2c.o
+ .debug_loc     0x00000000      0x42e src/i2c.o
+ .debug_aranges
+                0x00000000       0x48 src/i2c.o
+ .debug_ranges  0x00000000       0x38 src/i2c.o
+ .debug_line    0x00000000      0x26a src/i2c.o
+ .debug_str     0x00000000      0x1da src/i2c.o
+ .comment       0x00000000       0x31 src/i2c.o
+ .debug_frame   0x00000000      0x120 src/i2c.o
+ .text          0x00000000        0x0 src/usart.o
+ .data          0x00000000        0x0 src/usart.o
+ .bss           0x00000000        0x0 src/usart.o
+ .text.usart_getchar
+                0x00000000        0x8 src/usart.o
+ .text.usart_kbhit
+                0x00000000        0xa src/usart.o
+ .text.usart_pstr
+                0x00000000       0x1c src/usart.o
+ .text.usart_read_line
+                0x00000000       0x3a src/usart.o
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(memcmp.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(memcmp.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(memcmp.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(iob.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(iob.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(iob.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf_p.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf_p.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf_p.o)
+ .text.avr-libc
+                0x00000000       0x46 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf_p.o)
+ .comment       0x00000000       0x31 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf_p.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(putchar.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(putchar.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(putchar.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(puts.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(puts.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(puts.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(strnlen.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(strnlen.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(fputc.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(fputc.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(fputc.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00002000         xr
+data             0x00800060         0x00000400         rw !x
+eeprom           0x00810000         0x00000200         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+LOAD main.o
+LOAD src/avr-can-lib/at90can.o
+LOAD src/avr-can-lib/at90can_buffer.o
+LOAD src/avr-can-lib/at90can_disable_dyn_filter.o
+LOAD src/avr-can-lib/at90can_error_register.o
+LOAD src/avr-can-lib/at90can_get_buf_message.o
+LOAD src/avr-can-lib/at90can_get_dyn_filter.o
+LOAD src/avr-can-lib/at90can_get_message.o
+LOAD src/avr-can-lib/at90can_send_buf_message.o
+LOAD src/avr-can-lib/at90can_send_message.o
+LOAD src/avr-can-lib/at90can_set_dyn_filter.o
+LOAD src/avr-can-lib/at90can_set_mode.o
+LOAD src/avr-can-lib/can_buffer.o
+LOAD src/avr-can-lib/mcp2515.o
+LOAD src/avr-can-lib/mcp2515_buffer.o
+LOAD src/avr-can-lib/mcp2515_error_register.o
+LOAD src/avr-can-lib/mcp2515_get_dyn_filter.o
+LOAD src/avr-can-lib/mcp2515_get_message.o
+LOAD src/avr-can-lib/mcp2515_read_id.o
+LOAD src/avr-can-lib/mcp2515_regdump.o
+LOAD src/avr-can-lib/mcp2515_send_message.o
+LOAD src/avr-can-lib/mcp2515_set_dyn_filter.o
+LOAD src/avr-can-lib/mcp2515_set_mode.o
+LOAD src/avr-can-lib/mcp2515_sleep.o
+LOAD src/avr-can-lib/mcp2515_static_filter.o
+LOAD src/avr-can-lib/mcp2515_write_id.o
+LOAD src/avr-can-lib/sja1000.o
+LOAD src/avr-can-lib/sja1000_buffer.o
+LOAD src/avr-can-lib/sja1000_error_register.o
+LOAD src/avr-can-lib/sja1000_get_message.o
+LOAD src/avr-can-lib/sja1000_send_message.o
+LOAD src/avr-can-lib/sja1000_set_mode.o
+LOAD src/avr-can-lib/spi.o
+LOAD src/i2c.o
+LOAD src/usart.o
+START GROUP
+LOAD e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a
+END GROUP
+START GROUP
+LOAD e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a
+LOAD e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a
+LOAD e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a
+LOAD E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4\libatmega8a.a
+END GROUP
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00002000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x2000
+                [0x00000400]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000200]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x12a0
+ *(.vectors)
+ .vectors       0x00000000       0x26 E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000026                . = ALIGN (0x2)
+                0x00000026                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000026        0x0 linker stubs
+ *(.trampolines*)
+                0x00000026                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.can_filter
+                0x00000026       0x20 main.o
+                0x00000026                can_filter
+ .progmem.data._mcp2515_cnf
+                0x00000046       0x18 src/avr-can-lib/mcp2515.o
+                0x00000046                _mcp2515_cnf
+                0x0000005e                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000005e                __ctors_start = .
+ *(.ctors)
+                0x0000005e                __ctors_end = .
+                0x0000005e                __dtors_start = .
+ *(.dtors)
+                0x0000005e                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000005e        0x0 E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+                0x0000005e                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000005e        0xc E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000006a       0x16 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+                0x0000006a                __do_copy_data
+ .init4         0x00000080       0x10 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+                0x00000080                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000090        0x4 E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ *(.init9)
+ *(.text)
+ .text          0x00000094        0x2 E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+                0x00000094                __vector_1
+                0x00000094                __vector_12
+                0x00000094                __bad_interrupt
+                0x00000094                __vector_6
+                0x00000094                __vector_3
+                0x00000094                __vector_11
+                0x00000094                __vector_13
+                0x00000094                __vector_17
+                0x00000094                __vector_7
+                0x00000094                __vector_5
+                0x00000094                __vector_4
+                0x00000094                __vector_2
+                0x00000094                __vector_15
+                0x00000094                __vector_8
+                0x00000094                __vector_14
+                0x00000094                __vector_10
+                0x00000094                __vector_16
+                0x00000094                __vector_18
+                0x00000096                . = ALIGN (0x2)
+ *(.text.*)
+ .text.manage_power
+                0x00000096       0x3c main.o
+ .text.recive_msg
+                0x000000d2       0x4a main.o
+ .text.__vector_9
+                0x0000011c       0x54 main.o
+                0x0000011c                __vector_9
+ .text.main     0x00000170      0x6a8 main.o
+                0x00000170                main
+ .text.mcp2515_write_register
+                0x00000818       0x1e src/avr-can-lib/mcp2515.o
+                0x00000818                mcp2515_write_register
+ .text.mcp2515_read_register
+                0x00000836       0x18 src/avr-can-lib/mcp2515.o
+                0x00000836                mcp2515_read_register
+ .text.mcp2515_bit_modify
+                0x0000084e       0x28 src/avr-can-lib/mcp2515.o
+                0x0000084e                mcp2515_bit_modify
+ .text.mcp2515_read_status
+                0x00000876        0xc src/avr-can-lib/mcp2515.o
+                0x00000876                mcp2515_read_status
+ .text.can_init
+                0x00000882       0xd4 src/avr-can-lib/mcp2515.o
+                0x00000882                can_init
+ .text.can_check_message
+                0x00000956        0xc src/avr-can-lib/mcp2515_buffer.o
+                0x00000956                can_check_message
+ .text.can_get_message
+                0x00000962       0xac src/avr-can-lib/mcp2515_get_message.o
+                0x00000962                can_get_message
+ .text.mcp2515_read_id
+                0x00000a0e       0x9a src/avr-can-lib/mcp2515_read_id.o
+                0x00000a0e                mcp2515_read_id
+ .text.can_send_message
+                0x00000aa8       0xb0 src/avr-can-lib/mcp2515_send_message.o
+                0x00000aa8                can_send_message
+ .text.can_static_filter
+                0x00000b58       0x70 src/avr-can-lib/mcp2515_static_filter.o
+                0x00000b58                can_static_filter
+ .text.mcp2515_write_id
+                0x00000bc8       0x74 src/avr-can-lib/mcp2515_write_id.o
+                0x00000bc8                mcp2515_write_id
+ .text.mcp2515_spi_init
+                0x00000c3c        0xa src/avr-can-lib/spi.o
+                0x00000c3c                mcp2515_spi_init
+ .text.spi_putc
+                0x00000c46        0xa src/avr-can-lib/spi.o
+                0x00000c46                spi_putc
+ .text.usart_init
+                0x00000c50        0xe src/usart.o
+                0x00000c50                usart_init
+ .text.usart_putchar
+                0x00000c5e        0x8 src/usart.o
+                0x00000c5e                usart_putchar
+ .text.usart_putchar_printf
+                0x00000c66       0x18 src/usart.o
+                0x00000c66                usart_putchar_printf
+ .text.avr-libc
+                0x00000c7e       0x1a e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(memcmp.o)
+                0x00000c7e                memcmp
+ .text.avr-libc
+                0x00000c98       0x26 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf.o)
+                0x00000c98                printf
+ .text.avr-libc
+                0x00000cbe        0xc e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(putchar.o)
+                0x00000cbe                putchar
+ .text.avr-libc
+                0x00000cca       0x60 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(puts.o)
+                0x00000cca                puts
+ .text.avr-libc
+                0x00000d2a      0x3a4 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(vfprintf_std.o)
+                0x00000d2a                vfprintf
+ .text.avr-libc
+                0x000010ce       0x16 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(strnlen_P.o)
+                0x000010ce                strnlen_P
+ .text.avr-libc
+                0x000010e4       0x16 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(strnlen.o)
+                0x000010e4                strnlen
+ .text.avr-libc
+                0x000010fa       0x78 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(fputc.o)
+                0x000010fa                fputc
+ .text.avr-libc
+                0x00001172       0xbc e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(ultoa_invert.o)
+                0x00001172                __ultoa_invert
+ .text.libgcc.prologue
+                0x0000122e       0x38 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_prologue.o)
+                0x0000122e                __prologue_saves__
+ .text.libgcc.prologue
+                0x00001266       0x36 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_epilogue.o)
+                0x00001266                __epilogue_restores__
+                0x0000129c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000129c        0x0 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+                0x0000129c                _exit
+                0x0000129c                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000129c        0x4 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000012a0                _etext = .
+
+.data           0x00800060      0x168 load address 0x000012a0
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.mystdout
+                0x00800060        0xe main.o
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x0080006e       0x12 main.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800080      0x10c main.o
+ .rodata.NAVI_AS
+                0x0080018c        0x5 main.o
+ .rodata.NAVI_SCROLL_PRESS
+                0x00800191        0x5 main.o
+ .rodata.NAVI_SCROLL_LEFT
+                0x00800196        0x5 main.o
+ .rodata.NAVI_SCROLL_RIGHT
+                0x0080019b        0x5 main.o
+ .rodata.NAVI_RETURN
+                0x008001a0        0x5 main.o
+ .rodata.NAVI_MODE
+                0x008001a5        0x5 main.o
+ .rodata.NAVI_MINUS
+                0x008001aa        0x5 main.o
+ .rodata.NAVI_PLUS
+                0x008001af        0x5 main.o
+ .rodata.NAVI_DOWN
+                0x008001b4        0x5 main.o
+ .rodata.NAVI_RIGHT
+                0x008001b9        0x5 main.o
+ .rodata.NAVI_UP
+                0x008001be        0x5 main.o
+ .rodata.NAVI_LEFT
+                0x008001c3        0x5 main.o
+ *(.gnu.linkonce.r*)
+                0x008001c8                . = ALIGN (0x2)
+                0x008001c8                _edata = .
+                0x008001c8                PROVIDE (__data_end, .)
+
+.bss            0x008001c8        0xc
+                0x008001c8                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.lockCnt   0x008001c8        0x2 main.o
+ .bss.no_resp   0x008001ca        0x1 main.o
+ .bss.powerOn   0x008001cb        0x1 main.o
+ .bss.mode      0x008001cc        0x1 main.o
+ .bss.tunerInited
+                0x008001cd        0x1 main.o
+ *(COMMON)
+ COMMON         0x008001ce        0x6 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(iob.o)
+                0x008001ce                __iob
+                0x008001d4                PROVIDE (__bss_end, .)
+                0x000012a0                __data_load_start = LOADADDR (.data)
+                0x00001408                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001d4        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008001d4                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 src/avr-can-lib/mcp2515.o
+ .comment       0x00000030       0x31 src/avr-can-lib/mcp2515_buffer.o
+ .comment       0x00000030       0x31 src/avr-can-lib/mcp2515_get_message.o
+ .comment       0x00000030       0x31 src/avr-can-lib/mcp2515_read_id.o
+ .comment       0x00000030       0x31 src/avr-can-lib/mcp2515_send_message.o
+ .comment       0x00000030       0x31 src/avr-can-lib/mcp2515_static_filter.o
+ .comment       0x00000030       0x31 src/avr-can-lib/mcp2515_write_id.o
+ .comment       0x00000030       0x31 src/avr-can-lib/spi.o
+ .comment       0x00000030       0x31 src/usart.o
+ .comment       0x00000030       0x31 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(iob.o)
+ .comment       0x00000030       0x31 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(printf.o)
+ .comment       0x00000030       0x31 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(putchar.o)
+ .comment       0x00000030       0x31 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(puts.o)
+ .comment       0x00000030       0x2c e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(vfprintf_std.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005c       0x31 e:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1b8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x38 main.o
+ .debug_aranges
+                0x00000038       0x40 src/avr-can-lib/mcp2515.o
+ .debug_aranges
+                0x00000078       0x28 src/avr-can-lib/mcp2515_buffer.o
+ .debug_aranges
+                0x000000a0       0x20 src/avr-can-lib/mcp2515_get_message.o
+ .debug_aranges
+                0x000000c0       0x20 src/avr-can-lib/mcp2515_read_id.o
+ .debug_aranges
+                0x000000e0       0x20 src/avr-can-lib/mcp2515_send_message.o
+ .debug_aranges
+                0x00000100       0x20 src/avr-can-lib/mcp2515_static_filter.o
+ .debug_aranges
+                0x00000120       0x20 src/avr-can-lib/mcp2515_write_id.o
+ .debug_aranges
+                0x00000140       0x28 src/avr-can-lib/spi.o
+ .debug_aranges
+                0x00000168       0x50 src/usart.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x271d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x48c E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ .debug_info    0x0000048c      0xdbf main.o
+ .debug_info    0x0000124b      0x538 src/avr-can-lib/mcp2515.o
+ .debug_info    0x00001783       0xee src/avr-can-lib/mcp2515_buffer.o
+ .debug_info    0x00001871      0x264 src/avr-can-lib/mcp2515_get_message.o
+ .debug_info    0x00001ad5      0x1f2 src/avr-can-lib/mcp2515_read_id.o
+ .debug_info    0x00001cc7      0x2c2 src/avr-can-lib/mcp2515_send_message.o
+ .debug_info    0x00001f89      0x1ea src/avr-can-lib/mcp2515_static_filter.o
+ .debug_info    0x00002173      0x1bd src/avr-can-lib/mcp2515_write_id.o
+ .debug_info    0x00002330      0x116 src/avr-can-lib/spi.o
+ .debug_info    0x00002446      0x2d7 src/usart.o
+
+.debug_abbrev   0x00000000     0x12b1
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x44e E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ .debug_abbrev  0x0000044e      0x35a main.o
+ .debug_abbrev  0x000007a8      0x1bd src/avr-can-lib/mcp2515.o
+ .debug_abbrev  0x00000965       0xa7 src/avr-can-lib/mcp2515_buffer.o
+ .debug_abbrev  0x00000a0c      0x13e src/avr-can-lib/mcp2515_get_message.o
+ .debug_abbrev  0x00000b4a      0x11d src/avr-can-lib/mcp2515_read_id.o
+ .debug_abbrev  0x00000c67      0x1ad src/avr-can-lib/mcp2515_send_message.o
+ .debug_abbrev  0x00000e14       0xdc src/avr-can-lib/mcp2515_static_filter.o
+ .debug_abbrev  0x00000ef0      0x12d src/avr-can-lib/mcp2515_write_id.o
+ .debug_abbrev  0x0000101d       0xd6 src/avr-can-lib/spi.o
+ .debug_abbrev  0x000010f3      0x1be src/usart.o
+
+.debug_line     0x00000000     0x15e3
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x10a E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ .debug_line    0x0000010a      0x6c6 main.o
+ .debug_line    0x000007d0      0x2ee src/avr-can-lib/mcp2515.o
+ .debug_line    0x00000abe       0xf0 src/avr-can-lib/mcp2515_buffer.o
+ .debug_line    0x00000bae      0x176 src/avr-can-lib/mcp2515_get_message.o
+ .debug_line    0x00000d24      0x16f src/avr-can-lib/mcp2515_read_id.o
+ .debug_line    0x00000e93      0x207 src/avr-can-lib/mcp2515_send_message.o
+ .debug_line    0x0000109a      0x164 src/avr-can-lib/mcp2515_static_filter.o
+ .debug_line    0x000011fe      0x141 src/avr-can-lib/mcp2515_write_id.o
+ .debug_line    0x0000133f       0xeb src/avr-can-lib/spi.o
+ .debug_line    0x0000142a      0x1b9 src/usart.o
+
+.debug_frame    0x00000000      0x3a0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xa4 main.o
+ .debug_frame   0x000000a4       0xac src/avr-can-lib/mcp2515.o
+ .debug_frame   0x00000150       0x34 src/avr-can-lib/mcp2515_buffer.o
+ .debug_frame   0x00000184       0x4c src/avr-can-lib/mcp2515_get_message.o
+ .debug_frame   0x000001d0       0x34 src/avr-can-lib/mcp2515_read_id.o
+ .debug_frame   0x00000204       0x48 src/avr-can-lib/mcp2515_send_message.o
+ .debug_frame   0x0000024c       0x38 src/avr-can-lib/mcp2515_static_filter.o
+ .debug_frame   0x00000284       0x30 src/avr-can-lib/mcp2515_write_id.o
+ .debug_frame   0x000002b4       0x34 src/avr-can-lib/spi.o
+ .debug_frame   0x000002e8       0xb8 src/usart.o
+
+.debug_str      0x00000000      0x891
+ *(.debug_str)
+ .debug_str     0x00000000      0x17a E:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ .debug_str     0x0000017a      0x457 main.o
+                                0x4af (size before relaxing)
+ .debug_str     0x000005d1       0xdb src/avr-can-lib/mcp2515.o
+                                0x346 (size before relaxing)
+ .debug_str     0x000006ac       0x3a src/avr-can-lib/mcp2515_buffer.o
+                                0x1f1 (size before relaxing)
+ .debug_str     0x000006e6       0x3e src/avr-can-lib/mcp2515_get_message.o
+                                0x233 (size before relaxing)
+ .debug_str     0x00000724       0x3e src/avr-can-lib/mcp2515_read_id.o
+                                0x1f2 (size before relaxing)
+ .debug_str     0x00000762       0x52 src/avr-can-lib/mcp2515_send_message.o
+                                0x268 (size before relaxing)
+ .debug_str     0x000007b4       0x2b src/avr-can-lib/mcp2515_static_filter.o
+                                0x22c (size before relaxing)
+ .debug_str     0x000007df       0x26 src/avr-can-lib/mcp2515_write_id.o
+                                0x1f7 (size before relaxing)
+ .debug_str     0x00000805       0x19 src/avr-can-lib/spi.o
+                                0x1cf (size before relaxing)
+ .debug_str     0x0000081e       0x73 src/usart.o
+                                0x21e (size before relaxing)
+
+.debug_loc      0x00000000      0xfec
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x384 main.o
+ .debug_loc     0x00000384      0x3f0 src/avr-can-lib/mcp2515.o
+ .debug_loc     0x00000774       0x13 src/avr-can-lib/mcp2515_buffer.o
+ .debug_loc     0x00000787      0x131 src/avr-can-lib/mcp2515_get_message.o
+ .debug_loc     0x000008b8       0xf7 src/avr-can-lib/mcp2515_read_id.o
+ .debug_loc     0x000009af      0x192 src/avr-can-lib/mcp2515_send_message.o
+ .debug_loc     0x00000b41      0x11c src/avr-can-lib/mcp2515_static_filter.o
+ .debug_loc     0x00000c5d      0x112 src/avr-can-lib/mcp2515_write_id.o
+ .debug_loc     0x00000d6f       0x1f src/avr-can-lib/spi.o
+ .debug_loc     0x00000d8e      0x25e src/usart.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x148
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x58 main.o
+ .debug_ranges  0x00000058       0x30 src/avr-can-lib/mcp2515.o
+ .debug_ranges  0x00000088       0x18 src/avr-can-lib/mcp2515_buffer.o
+ .debug_ranges  0x000000a0       0x10 src/avr-can-lib/mcp2515_get_message.o
+ .debug_ranges  0x000000b0       0x10 src/avr-can-lib/mcp2515_read_id.o
+ .debug_ranges  0x000000c0       0x10 src/avr-can-lib/mcp2515_send_message.o
+ .debug_ranges  0x000000d0       0x10 src/avr-can-lib/mcp2515_static_filter.o
+ .debug_ranges  0x000000e0       0x10 src/avr-can-lib/mcp2515_write_id.o
+ .debug_ranges  0x000000f0       0x18 src/avr-can-lib/spi.o
+ .debug_ranges  0x00000108       0x40 src/usart.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(navi_tuner.elf elf32-avr)
+LOAD linker stubs
